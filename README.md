@@ -27,3 +27,7 @@
 * [embed: Extra Recipes for Encoding Categorical Predictors](https://cran.r-project.org/web/packages/embed/index.html); 	Max Kuhn; Factor predictors can be converted to one or more numeric representations using simple generalized linear models <arXiv:1611.09477> or nonlinear models <arXiv:1604.06737>. All encoding methods are supervised.
 
 ## Articles
+
+### 2018
+
+* [Auto is the new black — Google AutoML, Microsoft Automated ML, AutoKeras and auto-sklearn](https://medium.com/@santiagof/auto-is-the-new-black-google-automl-microsoft-automated-ml-autokeras-and-auto-sklearn-80d1d3c3005c); Motivation: Life is hard. Achieving state-of-the-art performance in a given data set is hard. It usually implies carefully selecting the right data pre-prossessing tasks, picking the right algorithm, model and architecture and pairing it with the right set of parameters. This end-to-end process is usually called Machine Learning Pipeline. There is no rule of thumb in which direction to go and, with more models beings developed all the time, even picking the right model is becoming challenging. Hyper-parameter tuning usually requires walking or sampling over all the possible values and just trying them out. However, there is no any warranty about finding something useful. In this context, automating the selection and tuning of machine learning pipelines has long been one of the goals of the machine learning community. This kind of task are usually referred as meta-learning — learning about learning.
