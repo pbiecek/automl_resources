@@ -2,6 +2,10 @@
 
 ## Papers
 
+### 2018
+
+* [Long-Term Trends in the Public Perception of Artificial Intelligence](https://arxiv.org/abs/1609.04904); Ethan Fast, Eric Horvitz; Analyses of text corpora over time can reveal trends in beliefs, interest, and sentiment about a topic. We focus on views expressed about artificial intelligence (AI) in the New York Times over a 30-year period. General interest, awareness, and discussion about AI has waxed and waned since the field was founded in 1956. We present a set of measures that captures levels of engagement, measures of pessimism and optimism, the prevalence of specific hopes and concerns, and topics that are linked to discussions about AI over decades. We find that discussion of AI has increased sharply since 2009, and that these discussions have been consistently more optimistic than pessimistic. However, when we examine specific concerns, we find that worries of loss of control of AI, ethical concerns for AI, and the negative impact of AI on work have grown in recent years. We also find that hopes for AI in healthcare and education have increased over time.
+
 ### 2017
 
 * [vtreat: a data.frame Processor for Predictive Modeling](https://arxiv.org/pdf/1611.09477.pdf); Nina Zumel, John Mount; vtreat prepares real-world data for predictive modeling in a reproducible and statistically sound manner, and is a valuable addition to the data science work-flow. Missing or invalid values are replaced with safe valid values, and further indicated by additional dummy variables. Categorical variables are represented in a manner that is robust to the appearance of novel levels during model application. Estimated variable significances are supplied for user-controlled variable pruning.
