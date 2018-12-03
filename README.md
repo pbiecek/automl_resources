@@ -24,7 +24,11 @@
 
 ## Books
 
+## Workshop
 
+### 2018
+
+* [www.automl.org](https://www.automl.org/events/); https://www.automl.org/
 
 ## Tools
 
