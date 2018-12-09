@@ -42,6 +42,8 @@
 
 ### 2018
 
+* [DEvol - Deep Neural Network Evolution](https://github.com/joeddav/devol); 
+
 * [MLFlow](https://github.com/mlflow/mlflow/tree/master/mlflow/R/mlflow); MLflow Tracking allows you to logging parameters, code versions, metrics, and output files when running R code and for later visualizing the results. MLflow allows you to group runs under experiments, which can be useful for comparing runs intended to tackle a particular task. You can create and activate a new experiment locally using mlflow as follows:
 
 * [splinetree: Longitudinal Regression Trees and Forests](https://cran.r-project.org/web/packages/splinetree/index.html); Anna Neufeld, Brianna Heggeseth; Builds regression trees and random forests for longitudinal or functional data using a spline projection method. Implements and extends the work of Yu and Lambert (1999). This method allows trees and forests to be built while considering either level and shape or only shape of response trajectories.
