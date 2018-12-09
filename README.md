@@ -18,6 +18,8 @@
 
 ### 2016
 
+* [A brief Review of the ChaLearn AutoML Challenge](https://docs.google.com/a/chalearn.org/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfGF1dG9tbHxneDoyYThjZjhhNzRjMzI3MTg4); Isabelle Guyon et al; The ChaLearn AutoML Challenge team conducted a large scale evaluation of fully automatic, black-box learning machines for feature-based classification and regression problems. The test bed was composed of 30 data sets from a wide variety of application domains and ranged across different types of complexity. Over six rounds, participants succeeded in delivering AutoML software capable of being trained and tested without human intervention. Although improvements can still be made to close the gap between human-tweaked and AutoML models, this competition contributes to the development of fully automated environments by challenging practitioners to solve problems under specific constraints and sharing their approaches; the platform will remain available for post-challenge submissions at http://codalab.org/AutoML.
+
 * [Entity Embeddings of Categorical Variables](https://arxiv.org/pdf/1604.06737.pdf); Cheng Guo and Felix Berkhahn; We map categorical variables in a function approximation problem into Euclidean spaces, which are the entity embeddings of the categorical variables. ... As entity embedding defines a distance measure for categorical variables it can be used for visualizing categorical data and for data clustering.
 
 ### 2013
