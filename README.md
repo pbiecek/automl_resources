@@ -20,6 +20,10 @@
 
 * [Entity Embeddings of Categorical Variables](https://arxiv.org/pdf/1604.06737.pdf); Cheng Guo and Felix Berkhahn; We map categorical variables in a function approximation problem into Euclidean spaces, which are the entity embeddings of the categorical variables. ... As entity embedding defines a distance measure for categorical variables it can be used for visualizing categorical data and for data clustering.
 
+### 2013
+
+* [An Evaluation of Sequential Model-Based Optimization for Expensive Blackbox Functions](http://aad.informatik.uni-freiburg.de/papers/13-GECCO-BBOB_SMAC.pdf); Frank Hutter, Holger Hoos, Kevin Leyton-Brown; We benchmark a sequential model-based optimization procedure, SMAC-BBOB, on the BBOB set of blackbox functions. We demonstrate that with a small budget of 10×D evaluations of D-dimensional functions, SMAC-BBOB in most cases outperforms the state-ofthe-art blackbox optimizer CMA-ES. However, CMA-ES benefits more from growing the budget to 100× D, and for larger number of function evaluations SMAC-BBOB also requires increasingly large computational resources for building and using its models.
+
 ### 2008 
 
 * [Isolation Forest](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf); Fei Tony Liu, Kai Ming Ting, Zhi-Hua Zhou; Most existing model-based approaches to anomaly detection construct a profile of normal instances, then identify instances that do not conform to the normal profile as anomalies. This paper proposes a fundamentally different model-based method that explicitly isolates anomalies instead of profiles normal points. Our empirical evaluation shows that iForest performs favourably to ORCA, a near-linear time complexity distance-based method, LOF and Random Forests in terms of AUC and processing time, and especially in large data sets. iForest also works well in high dimensional problems which have a large number of irrelevant attributes, and in situations where training set does not contain any anomalies.
