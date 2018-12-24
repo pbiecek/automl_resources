@@ -32,6 +32,10 @@
 
 ## Books
 
+### 2018
+
+* [AUTOML: METHODS, SYSTEMS, CHALLENGES](https://www.automl.org/book/)
+
 ## Workshop
 
 ### 2018
