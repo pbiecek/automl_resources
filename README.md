@@ -54,6 +54,10 @@
 
 * [embed: Extra Recipes for Encoding Categorical Predictors](https://cran.r-project.org/web/packages/embed/index.html); 	Max Kuhn; Factor predictors can be converted to one or more numeric representations using simple generalized linear models <arXiv:1611.09477> or nonlinear models <arXiv:1604.06737>. All encoding methods are supervised.
 
+### 2017
+
+* [Michelangelo](https://eng.uber.com/michelangelo/); Uber Engineering is committed to developing technologies that create seamless, impactful experiences for our customers. We are increasingly investing in artificial intelligence (AI) and machine learning (ML) to fulfill this vision. At Uber, our contribution to this space is Michelangelo, an internal ML-as-a-service platform that democratizes machine learning and makes scaling AI to meet the needs of business as easy as requesting a ride.
+
 ## Articles
 
 ### 2018
