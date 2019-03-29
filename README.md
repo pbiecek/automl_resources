@@ -2,6 +2,10 @@
 
 ## Papers
 
+### 2019
+
+* [ATMSeer: Increasing Transparency and Controllability in Automated Machine Learning](https://arxiv.org/abs/1902.05009); Qianwen Wang, Yao Ming, Zhihua Jin, Qiaomu Shen, Dongyu Liu, Micah J. Smith, Kalyan Veeramachaneni, Huamin Qu;      To relieve the pain of manually selecting machine learning algorithms and tuning hyperparameters, automated machine learning (AutoML) methods have been developed to automatically search for good models. Due to the huge model search space, it is impossible to try all models. Users tend to distrust automatic results and increase the search budget as much as they can, thereby undermining the efficiency of AutoML. To address these issues, we design and implement ATMSeer, an interactive visualization tool that supports users in refining the search space of AutoML and analyzing the results. To guide the design of ATMSeer, we derive a workflow of using AutoML based on interviews with machine learning experts. A multi-granularity visualization is proposed to enable users to monitor the AutoML process, analyze the searched models, and refine the search space in real time. We demonstrate the utility and usability of ATMSeer through two case studies, expert interviews, and a user study with 13 end users. 
+
 ### 2018
 
 * [Automated Machine Learning: An Agile Approach to AI Deployment](https://www.targetbase.com/wp-content/uploads/2018/10/Automated_Machine_Learning_19102018.pdf); AutoML to date has been focused on replicating the human “know how” required to build models, a primary deliverable in most data science projects. Based on this study, it turns out each step in the model building process can be replicated. Does it do as good of a job as a data scientist? The answer is for what it does, yes. Will AutoML replace a data scientist? Likely never, but AutoML is packaging artificial intelligence (AI) into data science tools that will become invaluable to the data scientist in the future.
